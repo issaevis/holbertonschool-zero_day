@@ -1,0 +1,3 @@
+#push/include every file except files that begin with a tilde (~)
+
+./~*
